@@ -11,7 +11,7 @@ base:
     port: 6379
     password: hyman
   zipkin:
-    url: http://111.231.192.110:10003/
+    url: http://localhost:9411
 
 management:
   endpoints:
