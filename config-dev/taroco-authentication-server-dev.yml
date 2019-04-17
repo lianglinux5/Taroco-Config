@@ -15,7 +15,6 @@ spring:
   redis:
     host: ${base.redis.host}
     port: ${base.redis.port}
-    password: ${base.redis.password}
     database: 0
   freemarker:
     allow-request-override: false
