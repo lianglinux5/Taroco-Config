@@ -47,3 +47,4 @@ taroco:
       - /**/*.png
       - /**/*.woff2
       - /**/*.js
+env: test
